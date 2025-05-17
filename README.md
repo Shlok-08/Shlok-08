@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shlok-08
-- 👀 I’m not interested in you 
-- 🌱 I’m currently learning to use Computer
-- 💞️ I’m looking to collaborate on Nobody
-- 📫 How to reach me : Dont try to rach me
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Coding
+- 💞️ I’m looking to collaborate with Developers to build some projects together
+- 📫 How to reach me : ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: LOL
 
