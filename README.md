@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Shlok Yadav</h1>
 
-<h3 align="center">
-  Aspiring Software Developer | Full-Stack Developer | AI Enthusiast
-</h3>
+<h3 align="center">Aspiring Software Developer | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/Shlok-08">
+  <a href="https://github.com/Shlok-08" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Shlok-08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
 </p>
@@ -20,7 +18,6 @@
 - 🌱 Continuously learning new technologies and improving my skills
 - 🤖 Interested in AI, Machine Learning, and automation
 - 🔭 Building practical projects using React.js, JavaScript, and Python
-- 📫 Email: **shlok.xrp@gmail.com**
 
 ---
 
@@ -29,29 +26,29 @@
 ### 💻 Programming Languages
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/></a>
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/></a>&nbsp;
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/></a>
 </p>
 
 ### 🌐 Web Development
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/></a>&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/></a>&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/></a>&nbsp;
   <a href="https://vite.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/></a>
 </p>
 
 ### 🔧 Developer Tools & Platforms
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/></a>&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm"/></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/></a>&nbsp;
   <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/></a>
 </p>
 
@@ -116,7 +113,6 @@
 
 ---
 
-
 ## 📜 Certifications
 
 - [Python for Data Science & AI: Hands-On Development](https://www.coursera.org/account/accomplishments/verify/UDP8HA2AW8HH) — IBM, Coursera
@@ -129,7 +125,6 @@
 
 - [ReactJS](https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_10648877150323546000_shared/1-2fa45a7d-950e-48e5-9277-e4b5ac4c3979.pdf) — Infosys Springboard
 
-
 ---
 
 ## 🤝 Connect With Me
@@ -138,8 +133,9 @@
   <a href="https://github.com/Shlok-08" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:shlok.xrp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/1135604180598395020" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
